@@ -14,7 +14,7 @@ Some One Like You insurance helps you register your creative content by uploadin
 
 ![image.png](image.png)
 
-Some One Like You reduces 100% copy problem for distribute view, make money purpose, duplicate content, edit content. In long term it’s copyright laws/rules can be built itself by region culture also the world, by reporter in human or artificial intelligence assistance.
+Some One Like You reduces 100% content copycat problem for distribute view, make money purpose, duplicate content, edit content. In long term it’s copyright laws/rules can be built itself by region culture also the world, by reporter in human or artificial intelligence assistance.
 
 ![image.png](image%201.png)
 
