@@ -1,6 +1,6 @@
 # some-one-like-you
 
-## Some One Like You
+## solY - Some One Like You
 
 ### Introduction
 
