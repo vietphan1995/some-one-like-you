@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/some-one-like-you.git](https://github.com/vietphan1995/some-one-like-you.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:some-one-like-you_project&body=left_your_idea)
+
 Some One Like You is a software platform acts as copyright finder by big data and artificial intelligence technology.
 
 Some One Like You finder receives origin content input and gives same content output on variety sources with followed input content extract features information.
@@ -17,6 +19,8 @@ Some One Like You insurance helps you register your creative content by uploadin
 Some One Like You reduces 100% content copycat problem for distribute view, make money purpose, duplicate content, edit content. In long term it’s copyright laws/rules can be built itself by region culture also the world, by reporter in human or artificial intelligence assistance.
 
 ![image.png](image%201.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
