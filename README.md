@@ -25,4 +25,4 @@ Some One Like You reduces 100% content copycat problem for distribute view, make
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/some-one-like-you-1d75e832d6ee8005bee6cdef76b4691f
+https://maianhcorporation.notion.site/some-one-like-you-1d75e832d6ee8005bee6cdef76b4691f
